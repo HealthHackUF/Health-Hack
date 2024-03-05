@@ -1,0 +1,62 @@
+Index: .idea/.gitignore
+===================================================================
+diff --git a/.idea/.gitignore b/.idea/.gitignore
+deleted file mode 100644
+--- a/.idea/.gitignore	(revision 75231a59e2ec97e8703f0297957393bb622582a6)
++++ /dev/null	(revision 75231a59e2ec97e8703f0297957393bb622582a6)
+@@ -1,5 +0,0 @@
+-# Default ignored files
+-/shelf/
+-/workspace.xml
+-# Editor-based HTTP Client requests
+-/httpRequests/
+Index: .idea/healthhackdev.iml
+===================================================================
+diff --git a/.idea/healthhackdev.iml b/.idea/healthhackdev.iml
+deleted file mode 100644
+--- a/.idea/healthhackdev.iml	(revision 75231a59e2ec97e8703f0297957393bb622582a6)
++++ /dev/null	(revision 75231a59e2ec97e8703f0297957393bb622582a6)
+@@ -1,12 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<module type="WEB_MODULE" version="4">
+-  <component name="NewModuleRootManager">
+-    <content url="file://$MODULE_DIR$">
+-      <excludeFolder url="file://$MODULE_DIR$/.tmp" />
+-      <excludeFolder url="file://$MODULE_DIR$/temp" />
+-      <excludeFolder url="file://$MODULE_DIR$/tmp" />
+-    </content>
+-    <orderEntry type="inheritedJdk" />
+-    <orderEntry type="sourceFolder" forTests="false" />
+-  </component>
+-</module>
+\ No newline at end of file
+Index: .idea/vcs.xml
+===================================================================
+diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+deleted file mode 100644
+--- a/.idea/vcs.xml	(revision 75231a59e2ec97e8703f0297957393bb622582a6)
++++ /dev/null	(revision 75231a59e2ec97e8703f0297957393bb622582a6)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="VcsDirectoryMappings">
+-    <mapping directory="" vcs="Git" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: .idea/modules.xml
+===================================================================
+diff --git a/.idea/modules.xml b/.idea/modules.xml
+deleted file mode 100644
+--- a/.idea/modules.xml	(revision 75231a59e2ec97e8703f0297957393bb622582a6)
++++ /dev/null	(revision 75231a59e2ec97e8703f0297957393bb622582a6)
+@@ -1,8 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectModuleManager">
+-    <modules>
+-      <module fileurl="file://$PROJECT_DIR$/.idea/healthhackdev.iml" filepath="$PROJECT_DIR$/.idea/healthhackdev.iml" />
+-    </modules>
+-  </component>
+-</project>
+\ No newline at end of file
